@@ -55,4 +55,4 @@ Related: [robotica-decomp](https://github.com/indieindie7/robotica-decomp), [dea
 
 ## Licence
 
-Notes, names and tools: MIT (see `LICENSE`). Robotica / Daedalus belong to their rights holders; nothing from the game is distributed here.
+Notes, names and tools: MIT (see `LICENSE`). Gungriffon belongs to their rights holders; nothing from the game is distributed here.
